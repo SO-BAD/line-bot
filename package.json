@@ -6,7 +6,6 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "prestart":"tsc",
     "start": "node index.js"
   },
   "keywords": [],
