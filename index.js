@@ -19,6 +19,4 @@ bot.on('message',function(event){
     // })
 });
 console.log(process.env)
-bot.listen('/',process.env.PORT || 3000, ()=>{
-
-})
+bot.listen('/',process.env.PORT || 3000, ()=>{})
